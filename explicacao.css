@@ -301,7 +301,7 @@ footer span a:hover {
     }
 
     /* Adjustments for other elements */
-    .about .about-content .left img {
+    .about .about-content {
         width: 100%;
     }
     /* ... Adjustments for other sections ... */
@@ -318,4 +318,3 @@ footer span a:hover {
 }
 
 /* ... Remaining CSS code ... */
-
